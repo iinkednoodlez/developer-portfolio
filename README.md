@@ -1,4 +1,4 @@
-# Maipa Portfolio Website
+# Maipa's Portfolio Website
 
 ## About
 Personal portfolio website built with HTML and CSS to showcase web development, AWS cloud projects, APIs, and database projects.
