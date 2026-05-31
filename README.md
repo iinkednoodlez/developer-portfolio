@@ -26,17 +26,7 @@ Personal portfolio website built with HTML and CSS to showcase web development, 
 
 ## Screenshots
 
-### Homepage
-![Homepage](Screenshots/homepage-preview.png)
 
-### About Section
-![About](Screenshots/about-section.png)
-
-### Furry Friends Page
-![Furry Friends](Screenshots/furry-friends-page.png)
-
-### Adoption Forms Page
-![Adoption Forms](Screenshots/adoption-forms-page.png)
 
 
 ## Author
